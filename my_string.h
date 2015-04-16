@@ -1,7 +1,7 @@
 #ifndef MY_STRING
 #define MY_STRING
 
-char* my_modife(char * str);
+char* my_modify(char * str);
 void* my_cout(char *str);
 
 

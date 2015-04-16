@@ -13,7 +13,7 @@ void* my_cout(char *str){
 }
 
 
-char* my_modife(char * str)
+char* my_modify(char * str)
 {
 	if (str == NULL)
 		return 0;
